@@ -4,7 +4,9 @@ Repositório destinado ao projeto ApiMySql uma WebAPI + .Net core + VS Code + My
 ![](images/Introduction.png?raw=true)
 
 Command Run: 
-PS C:\<YouProjectFolder>\ApiMySql> dotnet run
+```bash
+dotnet run
+```
 
 Acesse: http://localhost:5000/swagger.
 
