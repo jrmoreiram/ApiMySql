@@ -8,6 +8,4 @@ Command Run:
 dotnet run
 ```
 
-Acesse: http://localhost:5000/swagger.
-
 ![](images/Swagger.png?raw=true)
